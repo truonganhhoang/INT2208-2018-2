@@ -1,5 +1,4 @@
-INT2208-2-2018
-Công nghệ phần mềm 2 - 2018
-
-Sinh viên: Trần Vũ Hoàng
-Mã số sv: 16022372
+﻿# INT2203_6_1
+ Cấu trúc dữ liệu và giải thuật 1 2018
+ ## Sinh viên: Trần Vũ Hoàng
+ Mã số sv: 16022372
