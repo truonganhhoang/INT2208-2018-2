@@ -19,11 +19,10 @@ Báo cáo tiến độ học tập qua 15 môn học:
 
 
 
-
-
-
-
-
 Người chấm : Nguyễn Đức Minh
 Điểm : 8
 Nhận xét : Cần tham gia tích cực hơn.
+
+Người chấm: Nguyễn Đức Mạnh
+Điểm: 7.5
+Nhận xét: Đã hoàn thành các khóa học yêu cầu, có tham gia vào làm bài tập nhóm, chưa tham gia viết thẻ SEMAT cũng như tài liệu môn học.
