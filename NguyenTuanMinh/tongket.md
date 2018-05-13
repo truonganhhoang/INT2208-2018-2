@@ -17,3 +17,13 @@ Báo cáo tiến độ học tập qua 15 môn học:
 + Viết báo cáo BT lớn của nhóm: https://drive.google.com/file/d/14iB7oATpDAjKFjJBCnyswDXvVO-MZOB6/view
  
 
+
+
+
+
+
+
+
+Người chấm : Nguyễn Đức Minh
+Điểm : 8
+Nhận xét : Cần tham gia tích cực hơn.
