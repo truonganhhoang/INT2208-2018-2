@@ -1,5 +1,7 @@
 ﻿iTube là ứng dụng web xem video trực tuyến hoàn toàn miễn phí, được phát triển bởi NSTeam
 
+Yêu cầu : Trình duyệt cho phép sử dụng session storage
+
 Link trang web : https://nsteam.herokuapp.com
 
 
