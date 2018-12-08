@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/bootstrap/bootstrap.css">
 
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="https://cdn.rawgit.com/nnattawat/flip/master/dist/jquery.flip.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nnattawat/flip/dist/jquery.flip.min.js"></script>
     <script src="js/bootstrap/bootstrap.min.js"></script>
     <script>
         $(document).ready(function() {
